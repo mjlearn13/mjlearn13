@@ -14,9 +14,7 @@
 
 
 ## Socials
-<a 
-    target="_blank" rel="noreferrer" 
-    href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
