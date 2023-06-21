@@ -32,6 +32,14 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" 
       width="40" height="40"/>
     </a>
+    <a href="https://reactrouter.com/en/main">
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-router-logo.png" title="React Router" alt="React Router" 
+      width="40" height="40"/>
+    </a>
+
+
+    
+    
 </div>
 
 
