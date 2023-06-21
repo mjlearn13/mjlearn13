@@ -26,10 +26,14 @@
       alt="JavaScript" width="40" height="40"/>&nbsp;
     </a>
      <a href="https://firebase.google.com/">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase"           alt="Firebase" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
     </a>
      <a href="https://git-scm.com/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" 
+      width="40" height="40"/>
+    </a>
+    <a href="https://github.com/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" 
       width="40" height="40"/>
     </a>
     <a href="https://reactrouter.com/en/main">
