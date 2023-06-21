@@ -32,7 +32,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" 
       width="40" height="40"/>
     </a>
-    <a href="https://github.com/">
+    <a href="https://github.com/mjlearn13">
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" 
       width="40" height="40"/>
     </a>
