@@ -1,6 +1,6 @@
-### Hi there 👋 I am Manmeet Singh Johal.
+# Hi there 👋 I am Manmeet Johal.
 
-### I'm a Front-End Developer.
+## I'm a Front-End Developer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,11 +8,12 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: mjlearn13@gamil.com
 
-### Tech Stack
+## Tech Stack
 
 
 
-### Socials
+
+## Socials
 
 
 
