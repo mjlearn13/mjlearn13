@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for my first role as a Front-End Developer.
 - 🌱 I’m currently learning Markdown.
 - 👯 I’m looking to collaborate on interesting projects as a developer.
-- 📫 How to reach me: mjlearn13@gamil.com
+- 📫 How to reach me: mjlearn13@gmail.com
 
 ## 🛠️ Tech Stack
 <div>
