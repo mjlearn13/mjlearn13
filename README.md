@@ -46,7 +46,10 @@
     
 </div>
 
-
+## Certificates
+<a href="https://scrimba.com/certificate/uM9yMduP/gfrontend">
+    The Frontend Developer Career Path - Scrimba Certificate
+</a>
 
 ## Socials
 <a href="https://www.linkedin.com/">
