@@ -47,7 +47,7 @@
 </div>
 
 ## Certificates
-<a href="">
+<a href="./The%20Frontend%20Developer%20Career%20Path%20Completion%20Certificate.png">
     The Frontend Developer Career Path - Scrimba Certificate
 </a>
 
