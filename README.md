@@ -51,7 +51,7 @@
     The Frontend Developer Career Path - Scrimba Certificate
 </a>
 
-- Associate in Specialised Technology Degree in PC and Network Technology
+- Associate in Specialised Technology Degree in PC and Network Technology - Allentown Business School
 
 ## Socials
 <a href="https://www.linkedin.com/in/mjlearn13/">
