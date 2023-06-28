@@ -1,9 +1,9 @@
 # Hi there 👋 I am Manmeet Johal.
 
-## I'm a Front-End Developer.
+## I'm a Frontend Developer.
 
-- 🔭 I’m currently looking for my first role as a Front-End Developer.
-- 🌱 I’m currently learning Markdown.
+- 🔭 I’m currently looking for my first role as a Frontend Developer.
+- 🌱 I’m currently learning Markdown, Typescript, Unit Testing with Jasmine.
 - 👯 I’m looking to collaborate on interesting projects as a developer.
 - 📫 How to reach me: mjlearn13@gmail.com
 
@@ -47,9 +47,11 @@
 </div>
 
 ## Certificates
-<a href="./The%20Frontend%20Developer%20Career%20Path%20Completion%20Certificate.png">
+- <a href="./The%20Frontend%20Developer%20Career%20Path%20Completion%20Certificate.png">
     The Frontend Developer Career Path - Scrimba Certificate
 </a>
+
+- Associate in Specialised Technology Degree in PC and Network Technology
 
 ## Socials
 <a href="https://www.linkedin.com/in/mjlearn13/">
