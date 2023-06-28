@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer.
 
 - 🔭 I’m currently looking for my first role as a Frontend Developer.
-- 🌱 I’m currently learning Markdown, Typescript, Unit Testing with Jasmine.
+- 🌱 I’m currently learning Markdown, Typescript and Unit Testing with Jasmine.
 - 👯 I’m looking to collaborate on interesting projects as a developer.
 - 📫 How to reach me: mjlearn13@gmail.com
 
