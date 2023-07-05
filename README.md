@@ -47,6 +47,10 @@
 </div>
 
 ## Certificates
+- <a href="https://www.linkedin.com/learning/certificates/502279974aba5e04af597a88531841a16560a0d33e98f72b34db218510dccc41">
+    Creating a Serverless Application Using React in AWS - Linkedin Learning Certificate
+</a>
+    
 - <a href="./The%20Frontend%20Developer%20Career%20Path%20Completion%20Certificate.png">
     The Frontend Developer Career Path - Scrimba Certificate
 </a>
